@@ -70,7 +70,7 @@ Nestack_Submission/
 ### Clone the repository
 
 ```bash
-git clone <YOUR_PRIVATE_REPOSITORY_URL>
+git clone https://github.com/suraj-prasad-rout/Nestack-Secure-API.git
 cd Nestack_Submission
 ```
 
@@ -87,6 +87,7 @@ python -m venv venv
 
 ```bash
 pip install -r requirements.txt
+
 ```
 
 ### Configure environment variables
